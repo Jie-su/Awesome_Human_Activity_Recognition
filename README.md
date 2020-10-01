@@ -11,8 +11,14 @@
 ### Unsupervised Learning
 
 #### Unsupervised Domain Adaptation
-- 2020
-  - A Systematic Study of Unsupervised Domain Adaptation for Robust
-Human-Activity Recognition [[papers](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code] 
+
+- A Systematic Study of Unsupervised Domain Adaptation for Robust
+Human-Activity Recognition [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code]  (2020)
+- 
+
+
+### Transfer Learning
+
+- Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3369818)] (2020)
 
 
