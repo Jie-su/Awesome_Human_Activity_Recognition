@@ -11,7 +11,8 @@
 ### Unsupervised Learning
 
 #### Unsupervised Domain Adaptation
-- (2020)A Systematic Study of Unsupervised Domain Adaptation for Robust
+- 2020
+  - A Systematic Study of Unsupervised Domain Adaptation for Robust
 Human-Activity Recognition [[papers](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code] 
 
 
