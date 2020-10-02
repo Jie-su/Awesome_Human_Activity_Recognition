@@ -39,3 +39,7 @@
 
 ### Continual Learning
 - Continual Learning in Human Activity Recognition: an Empirical Analysis of Regularization [[**paper**](https://arxiv.org/pdf/2007.03032.pdf)] [code] (**ICML Continual Learning Workshop 2020**)
+
+
+### Other 
+- Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3411836)] [code] (**Ubicomp 2020**) 
