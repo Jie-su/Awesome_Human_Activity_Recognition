@@ -48,5 +48,6 @@
 ### Other 
 - Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3411836)] [code] (**Ubicomp 2020**) 
 - DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3380980)] [code] (**Ubicomp 2020**)  
-- ER-Rhythm: Coupling Exercise and Respiration Rhythm Using Lightweight COTS RFID [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3369808)] [code] (**Ubicomp 2020**)
 - AuraRing: Precise Electromagnetic Finger Tracking [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3369831)] [code] (**Ubicomp 2020**)
+- Adversarial Multi-view Networks for Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3397323)] [code] (**Ubicomp 2020**)
+- Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3397330)] [code] (**Ubicomp 2020**)
