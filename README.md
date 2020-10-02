@@ -12,13 +12,15 @@
 
 #### Unsupervised Domain Adaptation
 
-- A Systematic Study of Unsupervised Domain Adaptation for Robust
-Human-Activity Recognition [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code]  (Ubicomp 2020)
+- A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code]  (Ubicomp 2020)
 - 
 
 
 ### Transfer Learning
 
 - Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3369818)] [code] (Ubicomp 2020)
+- Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation [[paper](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)] [code] (IPSN 2019)
+
+
 
 
