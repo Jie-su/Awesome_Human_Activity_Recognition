@@ -32,6 +32,8 @@
 
 
 ### Multi Task Learning
+- METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3381012)] [code] (**Ubicomp 2020**) 
+
 
 
 ### Continual Learning
