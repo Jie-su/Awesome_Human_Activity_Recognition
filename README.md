@@ -24,3 +24,5 @@
 
 
 
+### Continual Learning
+- Continual Learning in Human Activity Recognition: an Empirical Analysis of Regularization [[paper](https://arxiv.org/pdf/2007.03032.pdf)] [code] (ICML Continual Learning Workshop 2020)
