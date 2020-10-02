@@ -20,6 +20,9 @@
 - A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code]  (**Ubicomp 2020**)
 - 
 
+### Self-Supervised Learning
+- Masked Reconstruction Based Self-Supervision for Human Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3410531.3414306)] [code]  (**Ubicomp 2020**)
+
 
 ### Transfer Learning
 - Incremental Real-Time Personalization in Human Activity Recognition Using Domain Adaptive Batch Normalization [[**paper**](https://arxiv.org/pdf/2005.12178.pdf)] [code] (**Arxiv May 2020**)
@@ -39,6 +42,7 @@
 
 ### Continual Learning
 - Continual Learning in Human Activity Recognition: an Empirical Analysis of Regularization [[**paper**](https://arxiv.org/pdf/2007.03032.pdf)] [code] (**ICML Continual Learning Workshop 2020**)
+
 
 
 ### Other 
