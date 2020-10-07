@@ -32,8 +32,8 @@
 - Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)] [code] (**IPSN 2019**)
 - Scaling Human Activity Recognition via Deep Learning-based Domain Adaptation [[**paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8444585)] [code] (**PerCom 2018**)
 - Deep transfer learning for cross-domain activity recognition [[**paper**](https://arxiv.org/pdf/1807.07963.pdf)] [code] (**ICCSE 2018**) 
+- Label Propagation: An Unsupervised Similarity Based Method for Integrating New Sensors in Activity Recognition Systems [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3130959)] [code] (**IMWUT/ubicomp 2017**) 
 - Deep convolutional feature transfer across mobile activity recognition domains, sensor modalities and locations [[**paper**](https://dl.acm.org/doi/pdf/10.1145/2971763.2971764)] [code] (**ISWC 2016**) 
-
 
 
 ### Multi Task Learning
