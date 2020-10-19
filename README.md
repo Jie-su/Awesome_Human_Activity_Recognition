@@ -25,6 +25,7 @@
 
 
 ### Transfer Learning
+- XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices [[**paper**](https://ieeexplore.ieee.org/document/9158431)] [code] (**SECON 2020**)
 - Incremental Real-Time Personalization in Human Activity Recognition Using Domain Adaptive Batch Normalization [[**paper**](https://arxiv.org/pdf/2005.12178.pdf)] [code] (**Arxiv May 2020**)
 - ActiLabel: A Combinatorial Transfer Learning Framework for Activity Recognition [[**paper**](https://arxiv.org/pdf/2003.07415.pdf)] [code] (**Arxiv March 2020**)
 - Digging Deeper: Towards a Better Understanding of Transfer Learning for Human Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3410531.3414311)] [code] (**Ubicomp 2020**)
