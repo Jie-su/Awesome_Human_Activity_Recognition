@@ -53,3 +53,8 @@
 - AuraRing: Precise Electromagnetic Finger Tracking [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3369831)] [code] (**Ubicomp 2020**)
 - Adversarial Multi-view Networks for Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3397323)] [code] (**Ubicomp 2020**)
 - Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3397330)] [code] (**Ubicomp 2020**)
+
+
+#### Benchmark Paper
+- Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables [[**paper**](https://arxiv.org/pdf/1604.08880.pdf)] [code] (**IJCAI 2016**)
+
