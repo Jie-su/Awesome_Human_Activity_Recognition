@@ -3,15 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-- [Datasets](#1-Datasets)
-  * [1.1 Purpose](#11-purpose)
-  * [1.2 Scope](#12-scope)
-  * [1.3 Acronyms](#13-acronyms)
-  * [1.4 References](#14-references)
-    + [1.4.1 Internal References](#141-internal-references)
-    + [1.4.2 External References](#142-external-references)
-  * [1.5 Overview](#15-overview)
-- [Paper with code](#2-Paper)
+- [Datasets](#heading-2)
+- [Paper with code](#heading-2)
   * [2020](#sub-heading-1)
   * [2019](#sub-heading-2)
   * [2018](#sub-heading-3)
