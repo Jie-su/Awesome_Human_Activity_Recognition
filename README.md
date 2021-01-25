@@ -4,18 +4,18 @@
 
 
 - [1. Datasets](#1-datasets)
-- [2. Paper with code](#2-Paper-with-code)
+- [2. Paper with code (By year)](#2-Paper-with-code)
   * [2020](#2020)
   * [2019](#2019)
-  * [2018](#sub-heading-3)
-  * [2017](#sub-heading-4)
-  * [2016](#sub-heading-5)
-  * [2015](#sub-heading-6)
-  * [2014](#sub-heading-7)
-  * [2013](#sub-heading-8)
-  * [2012](#sub-heading-9)
-  * [2011](#sub-heading-10)
-  * [2010](#sub-heading-11)
+  * [2018](#2018)
+  * [2017](#2017)
+  * [2016](#2016)
+  * [2015](#2015)
+  * [2014](#2014)
+  * [2013](#2013)
+  * [2012](#2012)
+  * [2011](#2011)
+  * [2010](#2010)
 
 ## 1. Datasets
 - Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
