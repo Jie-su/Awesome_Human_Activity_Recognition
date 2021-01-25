@@ -5,8 +5,8 @@
 
 - [1. Datasets](#1-datasets)
 - [2. Paper with code](#2-Paper-with-code)
-  * [2020](#sub-heading-1)
-  * [2019](#sub-heading-2)
+  * [2020](#2020)
+  * [2019](#2019)
   * [2018](#sub-heading-3)
   * [2017](#sub-heading-4)
   * [2016](#sub-heading-5)
