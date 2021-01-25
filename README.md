@@ -3,7 +3,18 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-## Datasets
+- [1. Datasets](#1-Datasets)
+  * [1.1 Purpose](#11-purpose)
+  * [1.2 Scope](#12-scope)
+  * [1.3 Acronyms](#13-acronyms)
+  * [1.4 References](#14-references)
+    + [1.4.1 Internal References](#141-internal-references)
+    + [1.4.2 External References](#142-external-references)
+  * [1.5 Overview](#15-overview)
+- [2. Paper with code](#2-Paper)
+  * [2.1 2020](#21-2020)
+
+## 1. Datasets
 - Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
 - PAMAP2 [[**link**](https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring)]
 
