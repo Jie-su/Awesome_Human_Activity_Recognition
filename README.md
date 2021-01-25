@@ -3,8 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-- [1. Datasets](#heading-1)
-- [2. aper with code](#heading-2)
+- [1. Datasets](#1-datasets)
+- [2. Paper with code](#heading-2)
   * [2020](#sub-heading-1)
   * [2019](#sub-heading-2)
   * [2018](#sub-heading-3)
