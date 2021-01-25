@@ -3,8 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-- [Datasets](#heading-2)
-- [Paper with code](#heading-2)
+- [1. Datasets](#heading-1)
+- [2. aper with code](#heading-2)
   * [2020](#sub-heading-1)
   * [2019](#sub-heading-2)
   * [2018](#sub-heading-3)
@@ -17,11 +17,11 @@
   * [2011](#sub-heading-10)
   * [2010](#sub-heading-11)
 
-## Datasets
+## 1. Datasets
 - Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
 - PAMAP2 [[**link**](https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring)]
 
-## Paper with code
+## 2. Paper with code
 ### 2020
 - Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning  [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3369818)] [code] (**IMWUT/ubicomp**)
 - MARS: Mixed Virtual and Real Wearable Sensors for Human Activity Recognition with Multi-Domain Deep Learning Model [[**paper**](https://arxiv.org/pdf/2009.09404.pdf)] [code] (**arXiv**)
