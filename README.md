@@ -107,6 +107,7 @@
 
 
 ### Transfer Learning
+- Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition [**paper**] [[code](https://github.com/Hangwei12358/cross-person-HAR)] (**AAAI 2021**)
 - XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices [[**paper**](https://ieeexplore.ieee.org/document/9158431)] [code] (**SECON 2020**)
 - Incremental Real-Time Personalization in Human Activity Recognition Using Domain Adaptive Batch Normalization [[**paper**](https://arxiv.org/pdf/2005.12178.pdf)] [code] (**Arxiv May 2020**)
 - ActiLabel: A Combinatorial Transfer Learning Framework for Activity Recognition [[**paper**](https://arxiv.org/pdf/2003.07415.pdf)] [code] (**Arxiv March 2020**)
