@@ -16,6 +16,15 @@
   * [2012](#2012)
   * [2011](#2011)
   * [2010](#2010)
+- [3. Survey & Overview](#3-Survey-&-Overview)
+- [4. Unsupervised Learning](#4-Unsupervised-Learning)
+  * [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
+- [5. Self-Supervised Learning](#5-Self-Supervised-Learning)
+- [6. Transfer Learning](#6-Transfer-Learning)
+- [7. Multi Task Learning](#7-Multi-Task-Learning)
+- [8. Continual Learning](#8-Continual-earning)
+- [9. Other](#9-Other)
+
 
 ## 1. Datasets
 - Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
@@ -105,22 +114,21 @@
 ### 2010
 - Using Wearable Activity Type Detection to Improve Physical Activity Energy Expenditure Estimation [[**paper**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122605/)] [code] (**ubicomp**)
 
-### Survey & Overview
+## 3. Survey & Overview
 
 
+## 4. Unsupervised Learning
 
-### Unsupervised Learning
-
-#### Unsupervised Domain Adaptation
+### 4.1 Unsupervised Domain Adaptation
 
 - A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3380985)] [code]  (**Ubicomp 2020**)
 - 
 
-### Self-Supervised Learning
+## 5. Self-Supervised Learning
 - Masked Reconstruction Based Self-Supervision for Human Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3410531.3414306)] [code]  (**Ubicomp 2020**)
 
 
-### Transfer Learning
+## 6. Transfer Learning
 - Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition [**paper**] [[code](https://github.com/Hangwei12358/cross-person-HAR)] (**AAAI 2021**)
 - XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices [[**paper**](https://ieeexplore.ieee.org/document/9158431)] [code] (**SECON 2020**)
 - Incremental Real-Time Personalization in Human Activity Recognition Using Domain Adaptive Batch Normalization [[**paper**](https://arxiv.org/pdf/2005.12178.pdf)] [code] (**Arxiv May 2020**)
@@ -134,24 +142,20 @@
 - Deep convolutional feature transfer across mobile activity recognition domains, sensor modalities and locations [[**paper**](https://dl.acm.org/doi/pdf/10.1145/2971763.2971764)] [code] (**ISWC 2016**) 
 
 
-### Multi Task Learning
+## 7. Multi Task Learning
 - METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3381012)] [code] (**Ubicomp 2020**) 
 
 
 
-### Continual Learning
+## 8. Continual Learning
 - Continual Learning in Human Activity Recognition: an Empirical Analysis of Regularization [[**paper**](https://arxiv.org/pdf/2007.03032.pdf)] [code] (**ICML Continual Learning Workshop 2020**)
 
 
 
-### Other 
+## 9. Other 
 - Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3411836)] [code] (**Ubicomp 2020**) 
 - DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3380980)] [code] (**Ubicomp 2020**)  
 - AuraRing: Precise Electromagnetic Finger Tracking [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3369831)] [code] (**Ubicomp 2020**)
 - Adversarial Multi-view Networks for Activity Recognition [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3397323)] [code] (**Ubicomp 2020**)
 - Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3397330)] [code] (**Ubicomp 2020**)
-
-
-#### Benchmark Paper
-- Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables [[**paper**](https://arxiv.org/pdf/1604.08880.pdf)] [code] (**IJCAI 2016**)
 
