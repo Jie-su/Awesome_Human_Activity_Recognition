@@ -48,6 +48,7 @@
 - DenseNetX and GRU for the sussex-huawei locomotion-transportation recognition challenge [[**paper**](https://dl.acm.org/doi/10.1145/3410530.3414349)] [code] (**ISWC/ubicomp**)
 
 ### 2019
+- Transfer Learning with Dynamic Adversarial Adaptation Network [[**paper**](http://jd92.wang/assets/files/a16_icdm19.pdf)] [[code](https://github.com/jindongwang/transferlearning/tree/master/code/deep/DAAN)] (**ICDM 2019**)
 - A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition [[**paper**](https://www.ijcai.org/Proceedings/2019/0779.pdf)] [code] (**IJCAI**)
 - [AttnSense] AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition [[**paper**](https://www.ijcai.org/Proceedings/2019/0431.pdf)] [code] (**IJCAI**)
 - Multi-agent Attentional Activity Recognition [[**paper**](https://arxiv.org/pdf/1905.08948.pdf)] [code] (**IJCAI**)
