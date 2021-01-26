@@ -32,6 +32,7 @@
 
 ## 2. Paper with code
 ### 2020
+- Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition [**paper**] [[code](https://github.com/Hangwei12358/cross-person-HAR)] (**AAAI 2021**)
 - Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning  [[**paper**](https://dl.acm.org/doi/pdf/10.1145/3369818)] [code] (**IMWUT/ubicomp**)
 - MARS: Mixed Virtual and Real Wearable Sensors for Human Activity Recognition with Multi-Domain Deep Learning Model [[**paper**](https://arxiv.org/pdf/2009.09404.pdf)] [code] (**arXiv**)
 - Towards Deep Clustering of Human Activities from Wearables [[**paper**](https://arxiv.org/pdf/2008.01659.pdf)] [code] (**ISWC/ubicomp**)
